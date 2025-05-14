@@ -1,0 +1,127 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: lightgrey;
+  font-family: Lexend, sans-serif;
+}
+
+.feed {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px 0;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.post1 {
+  background-color: white;
+  margin-bottom: 40px;
+  box-shadow: 0 1px 3px rgba 0;
+}
+
+.post1-header {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 15px;
+  font-weight: bold;
+}
+
+.post1-date {
+    opacity: 0.5;
+    font-weight: 300;
+}
+
+.post1image {
+  height: 300px;
+  width: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+p {
+  padding: 10px 15px;
+  font-size: 14px;
+  color: black;
+}
+
+.post2 {
+  background-color: white;
+  margin-bottom: 40px;
+  box-shadow: 0 1px 3px rgba 0;
+}
+
+.post2-header {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 15px;
+  font-weight: bold;
+}
+
+.post2-date {
+    opacity: 0.5;
+    font-weight: 300;
+}
+
+.post2image {
+    height: 300px;
+  width: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.post3 {
+  background-color: white;
+  margin-bottom: 40px;
+  box-shadow: 0 1px 3px rgba 0;
+}
+
+.post3-header {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 15px;
+  font-weight: bold;
+}
+
+.post3-date {
+    opacity: 0.5;
+    font-weight: 300;
+}
+
+.post3image {
+  height: 300px;
+  width: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.post4 {
+  background-color: white;
+  margin-bottom: 40px;
+  box-shadow: 0 1px 3px rgba 0;
+}
+
+.post4-header {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 15px;
+  font-weight: bold;
+}
+
+.post4-date {
+    opacity: 0.5;
+    font-weight: 300;
+}
+
+.post4image {
+  height:300px;
+  width: 100%;
+  object-fit: cover;
+  display: block;
+}
